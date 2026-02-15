@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3189f24-73b4-4bda-8b81-e30edc4f9b0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exemple_classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +38,11 @@
     "Python.exercice 2.executor": "Run",
     "Python.exercice1.executor": "Run",
     "Python.exercice3.executor": "Run",
+    "Python.exercice4.executor": "Run",
+    "Python.exercice5.executor": "Run",
     "Python.personne.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
